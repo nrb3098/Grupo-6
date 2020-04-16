@@ -1,3 +1,4 @@
 # Grupo-6
 ### Nicolas Ramos Bohorquez
 ### Santiago Cubides Santana
+### Claudia Tello Argoti
