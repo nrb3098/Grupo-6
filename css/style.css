@@ -89,7 +89,7 @@ body {
     justify-items: normal;
     align-content: space-evenly;
     justify-content: space-evenly;
-    background-color: antiquewhite height: 800px;
+    background-color: antiquewhite;
     border: 1px solid;
     padding: 1em;
 }
